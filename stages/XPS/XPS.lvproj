@@ -27,23 +27,23 @@
 				<Property Name="Bld_buildSpecName" Type="Str">XPS</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/D/Hongxing/TransientAbsorptionDAQ.lv-main/TransientAbsorptionDAQ.lv-main/builds/stages/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/D/Hongxing github/TransientAbsorptionDAQ.lv/builds/stages/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Plugin Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7A72E656-AAD2-4B16-8C39-0459714C6B28}</Property>
-				<Property Name="Bld_version.build" Type="Int">52</Property>
+				<Property Name="Bld_version.build" Type="Int">53</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XPS.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/D/Hongxing/TransientAbsorptionDAQ.lv-main/TransientAbsorptionDAQ.lv-main/builds/stages/XPS/XPS.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/D/Hongxing github/TransientAbsorptionDAQ.lv/builds/stages/NI_AB_PROJECTNAME/XPS.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/D/Hongxing/TransientAbsorptionDAQ.lv-main/TransientAbsorptionDAQ.lv-main/builds/stages/XPS</Property>
+				<Property Name="Destination[1].path" Type="Path">/D/Hongxing github/TransientAbsorptionDAQ.lv/builds/stages/NI_AB_PROJECTNAME</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E010CC56-4735-4FAE-9B58-1DE1ED310442}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B8F82673-67DD-4702-9349-FA0A02BA18F6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/XPS.lvlib</Property>
